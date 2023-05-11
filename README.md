@@ -1,9 +1,8 @@
 Task:
-1) Git commands 
-2) Readme Commands(fonts)
-3) links to various txt files 
-4) create a folder in repo and save a txt filr and link it to the main repo README
-
+**1) Git commands **
+**2) Readme Commands(fonts)**
+**3) links to various txt files **
+**4) create a folder in repo and save a txt filr and link it to the main repo README**
 
 
 # GIT Commands
