@@ -52,7 +52,7 @@ This command compare previous commit and current stagging area (shows what chang
 
     git commit -a -m "comment" 
 
-This command use for direct commit. if you have done changes in file,which is allreary in staging area.
+This command use for direct commit. if you have done changes in file,which is allreary in staging area.(This command skip the stagging area)
 
 
 
