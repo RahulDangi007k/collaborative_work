@@ -50,6 +50,10 @@ This command compare staging area to working directory.(check what is different 
     
 This command compare previous commit and current stagging area (shows what changes had happened.)
 
+    git commit -a -m "comment" 
+
+This command use for direct commit. if you have done changes in file,which is allreary in staging area.
+
 
 
 ## .gitignore: Ignoring Files in Git.
