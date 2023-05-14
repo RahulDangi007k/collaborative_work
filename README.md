@@ -42,4 +42,16 @@ This command is use for taking data from out source.
     
 This command is use for taking data from any repository to your local device.
 
+    git diff
+
+This command compare staging area to working directory.(check what is different data between staging file and after staged file which file we have modified.)
+
+    git diff --staged
+    
+This command compare previous commit and current stagging area (shows what changes had happened.)
+
+
+
+## .gitignore: Ignoring Files in Git.
+
     
