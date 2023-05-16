@@ -74,7 +74,7 @@ Whisper can transcribe speech into text and translate many languages into Englis
 | Whisper                 | $0.006 / MINUTE (Rounded to the nearest second) | ₹0.49362 / MINUTE    | 
 
 
-
+## test
 
 
 
