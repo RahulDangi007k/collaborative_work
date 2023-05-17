@@ -42,7 +42,7 @@ This command is use to push the data on  host server.
 
 This command is use for taking data from out source.
     
-    git clone (url)
+    git clone (url) file_name
     
 This command is use for taking data from any repository to your local device.
 
@@ -58,7 +58,35 @@ This command compare previous commit and current stagging area (shows what chang
 
 This command use for direct commit. if you have done changes in file,which is allreary in staging area.(This command skip the stagging area)
 
+    git log
+    
+This command shows all history of commit.
 
+    git lop -p
+    
+This command shows what changes done in the commit.
+
+    git lop - p -3
+    
+This command shows only 3 logs along with there diff.
+
+    git log --stat
+    
+This command shows info in very short.
+
+    git log --pretty=oneline
+    
+This command shows all commit history in one line.
+
+     git log --since=2.days           /weeks/months/years
+     
+This command shows commit of last two days.
+
+    git commit --ament
+    
+This command used to make changes in previous commit.
+
+    
 
 ## .gitignore: Ignoring Files in Git.
 
