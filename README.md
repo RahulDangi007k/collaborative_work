@@ -84,7 +84,17 @@ This command shows commit of last two days.
 
     git commit --ament
     
-This command used to make changes in previous commit.
+This command use to make changes in previous commit.
+
+    git checkout -- file_name
+    
+This command use to reverse back to previous commit state by removing modification which done recently (This is use for specific file).
+
+    git checkout -f
+    
+This command is use to remove modification of multiple files and get back to previous commit state.
+
+
 
     
 
